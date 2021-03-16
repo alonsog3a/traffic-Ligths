@@ -12,7 +12,7 @@ export function Home() {
 	const [color, setcolor] = useState(null);
 
 	return (
-		<div className="card">
+		<div className="card"> 
 			<div className="trafficligth">
 				<div className="ligth1">
 					<div
